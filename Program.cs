@@ -5,7 +5,7 @@ int N  = int.Parse(Console.ReadLine()!);
 
 Console.WriteLine(PrintNumbers(N,1));
 
-// ------------------Метод------------------
+// ------------------Метод 1 задача ------------------
 string PrintNumbers(int start, int end){
     if(start == end) return start.ToString();
     return (start + " " + PrintNumbers(start - 1, end));
@@ -29,6 +29,7 @@ else
     Console.WriteLine($"Сумма чисел от {M} до {N}  равна {SummOf(N)}");
 }
 
+// ------------------Метод 1 задача ------------------
 
 int SummOf(int N)
 {
