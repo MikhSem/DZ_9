@@ -1,0 +1,15 @@
+D:\обучение\C#\DZ_S9\bin\Debug\net6.0\DZ_S9.exe
+D:\обучение\C#\DZ_S9\bin\Debug\net6.0\DZ_S9.deps.json
+D:\обучение\C#\DZ_S9\bin\Debug\net6.0\DZ_S9.runtimeconfig.json
+D:\обучение\C#\DZ_S9\bin\Debug\net6.0\DZ_S9.dll
+D:\обучение\C#\DZ_S9\bin\Debug\net6.0\DZ_S9.pdb
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.csproj.AssemblyReference.cache
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.AssemblyInfoInputs.cache
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.AssemblyInfo.cs
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.csproj.CoreCompileInputs.cache
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.dll
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\refint\DZ_S9.dll
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.pdb
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\DZ_S9.genruntimeconfig.cache
+D:\обучение\C#\DZ_S9\obj\Debug\net6.0\ref\DZ_S9.dll
